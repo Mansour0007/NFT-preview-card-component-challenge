@@ -32,7 +32,7 @@ i struggled with overlay background i need to focues on that in the future
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mansour0007)
+- Frontend Mentor - [@Mansour0007]https://www.frontendmentor.io/profile/Mansour0007)
 
 ## Acknowledgments
 
