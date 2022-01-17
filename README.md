@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mansour0007/NFT-preview-card-component-challenge)
+- Solution URL: [Add solution URL here]https://github.com/Mansour0007/NFT-preview-card-component-challenge)
 - Live Site URL: [Add live site URL here]https://jovial-spence-c8a4a0.netlify.app/)
 
 ## My process
